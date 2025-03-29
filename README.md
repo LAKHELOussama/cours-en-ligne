@@ -1,7 +1,7 @@
 # cours-en-ligne
-creation de cours avec des modules et des lecous \n
-inscription des etudiants\n
-quiz et evaluations \n
-suivi des progres des etudiants\n
-auth pour les enseignants et les etudiants\n
+creation de cours avec des modules et des lecous </br>
+inscription des etudiants</br>
+quiz et evaluations </br>
+suivi des progres des etudiants</br>
+auth pour les enseignants et les etudiants</br>
 
